@@ -18,6 +18,6 @@
 }
 
 $(function () {
-    var btnNdr = new NModalReportViewer($("#mainPage"));
+     new NModalReportViewer($("#mainPage"));
 
 })
